@@ -3,3 +3,5 @@ This To-Do Listproject is a simple web application built using HTML, CSS, and Ja
 marking tasks as completed. The interface is clean and user-friendly, thanks to custom styling with CSS, while JavaScript handles the dynamic functionality, 
 such as storing tasks in the browser's local storage, enabling persistence across page reloads. 
 This project is a great introduction to DOM manipulation and basic web development concepts.
+
+https://github.com/user-attachments/assets/c8a175a8-ddc7-4554-b2af-b3e668ca14ae
