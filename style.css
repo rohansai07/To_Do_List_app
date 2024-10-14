@@ -45,6 +45,7 @@ input{
     background: transparent;
     padding: 10px;
     font-weight: 14px;
+    flex-wrap: wrap;
 }
 button{
     border:none;
